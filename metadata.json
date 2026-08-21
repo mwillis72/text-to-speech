@@ -1,0 +1,7 @@
+{
+  "name": "Custom Text to Voice Generator",
+  "description": "Custom text-to-speech voice generator supporting multiple English accents and customizable voice styles, tones, pacing, and multi-speaker dialogues.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
