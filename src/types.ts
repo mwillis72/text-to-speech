@@ -17,6 +17,7 @@ export interface EnglishAccent {
   flag: string;
   description: string;
   characteristics: string;
+  code?: string;
 }
 
 export interface VoiceStyle {

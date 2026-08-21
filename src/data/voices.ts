@@ -77,6 +77,7 @@ export const ENGLISH_ACCENTS: EnglishAccent[] = [
     flag: '🇺🇸',
     description: 'Neutral, rhotic General American accent used broadly in global broadcasting, media, and tech.',
     characteristics: 'Crisp T-sounds, clear vowels, neutral cadence',
+    code: 'en-US',
   },
   {
     id: 'British RP',
@@ -85,6 +86,7 @@ export const ENGLISH_ACCENTS: EnglishAccent[] = [
     flag: '🇬🇧',
     description: 'Refined, prestigious standard British accent renowned for classical audiobooks, period dramas, and high-end luxury narration.',
     characteristics: 'Non-rhotic, rounded open vowels, polished diction',
+    code: 'en-GB',
   },
   {
     id: 'British Modern',
@@ -93,6 +95,7 @@ export const ENGLISH_ACCENTS: EnglishAccent[] = [
     flag: '🇬🇧',
     description: 'Trendy, conversational British cadence common in contemporary podcasts, design reels, and indie films.',
     characteristics: 'Relaxed glottals, casual rhythm, melodic pitch shifts',
+    code: 'en-GB',
   },
   {
     id: 'Australian',
@@ -101,6 +104,7 @@ export const ENGLISH_ACCENTS: EnglishAccent[] = [
     flag: '🇦🇺',
     description: 'Vibrant, open-voweled Australian accent bringing warmth, outdoor charisma, and friendly candor.',
     characteristics: 'Rising intonations, broader vowels, approachable warmth',
+    code: 'en-AU',
   },
   {
     id: 'Irish',
@@ -109,6 +113,7 @@ export const ENGLISH_ACCENTS: EnglishAccent[] = [
     flag: '🇮🇪',
     description: 'Melodic, lyrical lilt with expressive musicality and natural storytelling charm.',
     characteristics: 'Soft dental consonants, rhythmic cadence, musical cadence',
+    code: 'en-IE',
   },
   {
     id: 'Scottish',
@@ -117,6 +122,7 @@ export const ENGLISH_ACCENTS: EnglishAccent[] = [
     flag: '🏴󠁧󠁢󠁳󠁣󠁴󠁿',
     description: 'Hearty, poetic Scottish accent with warm rolled rhotics and historic storytelling depth.',
     characteristics: 'Tapped R, crisp consonants, rich authentic resonance',
+    code: 'en-GB',
   },
   {
     id: 'Indian English',
@@ -125,6 +131,7 @@ export const ENGLISH_ACCENTS: EnglishAccent[] = [
     flag: '🇮🇳',
     description: 'Clear, articulate Indian English accent popular across educational tech, corporate webinars, and global documentaries.',
     characteristics: 'Distinct syllable-timed cadence, crisp retroflex consonants',
+    code: 'en-IN',
   },
   {
     id: 'Canadian',
@@ -133,6 +140,7 @@ export const ENGLISH_ACCENTS: EnglishAccent[] = [
     flag: '🇨🇦',
     description: 'Gentle, friendly North American inflection with subtle Canadian vowel shifts.',
     characteristics: 'Approachable, warm tone, clear pronunciation',
+    code: 'en-CA',
   },
   {
     id: 'Southern US',
@@ -141,6 +149,7 @@ export const ENGLISH_ACCENTS: EnglishAccent[] = [
     flag: '🇺🇸',
     description: 'Smooth, hospitable Southern drawl full of charm, storytelling comfort, and down-home warmth.',
     characteristics: 'Elongated vowels, relaxed drawl, hospitable cadence',
+    code: 'en-US',
   },
   {
     id: 'South African',
@@ -149,6 +158,7 @@ export const ENGLISH_ACCENTS: EnglishAccent[] = [
     flag: '🇿🇦',
     description: 'Unique, clipped, rhythmic accent blending British influences with distinct Southern African vowels.',
     characteristics: 'Clipped consonants, distinct vowels, engaging rhythm',
+    code: 'en-ZA',
   },
 ];
 
